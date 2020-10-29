@@ -1,4 +1,6 @@
 ## 🚀 30diasCSS 🚀
+![GitHub](https://img.shields.io/github/license/mattheussAL/30diasCSS?color=red)
+![GitHub last commit](https://img.shields.io/github/last-commit/mattheussAL/30diasCSS)
  
  Fala Devs, beleza? 🖖
 
