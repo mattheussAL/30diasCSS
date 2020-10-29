@@ -26,7 +26,7 @@ Gostou da ideia?
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
-<img src="https://github.com/mattheussAL/test/blob/main/.github/assets/Untitled_%20Oct%2020%2C%202020%208_00%20PM.gif" width="800" height="400">
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2028%2C%202020%2010_47%20PM.gif" width="800" height="400">
 
 [Meu codigo](https://github.com/mattheussAL/30DiasCSS/tree/main/Desafios/dia1)
 
@@ -45,7 +45,7 @@ Gostou da ideia?
 
 
 ##  Desafio dia 02 - Loader animado <a name="id02"></a>
-<img src="https://github.com/mattheussAL/test/blob/main/.github/assets/Untitled_%20Oct%2020%2C%202020%208_03%20PM.gif" width="800" height="400">
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2028%2C%202020%2010_49%20PM.gif" width="800" height="400">
 
 [Meu código](https://github.com/mattheussAL/30DiasCSS/tree/main/Desafios/dia2)
 
@@ -57,7 +57,7 @@ Gostou da ideia?
 
 
 ##  Desafio dia 03 - Mudança de cor de texto quando entra em outra div <a name="id03"></a>
-<img src="https://github.com/mattheussAL/test/blob/main/.github/assets/Untitled_%20Oct%2020%2C%202020%208_05%20PM.gif" width="800" height="400">
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2028%2C%202020%2010_51%20PM.gif" width="800" height="400">
 
 [Meu código](https://github.com/mattheussAL/30DiasCSS/tree/main/Desafios/dia3)
 
@@ -71,7 +71,7 @@ Gostou da ideia?
 
 
 ##  Desafio dia 04 - Botão com efeito <a name="id04"></a>
-<img src="https://github.com/mattheussAL/test/blob/main/.github/assets/Untitled_%20Oct%2020%2C%202020%208_07%20PM.gif" width="800" height="400">
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2028%2C%202020%2010_53%20PM.gif" width="800" height="400">
 
 
 [Meu codigo](https://github.com/mattheussAL/30DiasCSS/tree/main/Desafios/dia4)
@@ -88,7 +88,7 @@ Gostou da ideia?
 
 
 ##  Desafio dia 05 - Efeito pulsar <a name="id05"></a>
-<img src="https://github.com/mattheussAL/test/blob/main/.github/assets/Untitled_%20Oct%2020%2C%202020%208_09%20PM.gif" width="800" height="400">
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2028%2C%202020%2010_54%20PM.gif" width="800" height="400">
 
 [Meu codigo](https://github.com/mattheussAL/30DiasCSS/tree/main/Desafios/dia5)
 
@@ -100,7 +100,7 @@ Gostou da ideia?
 * *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 
 ##  Desafio dia 06 - Efeito Smoke text <a name="id06"></a>
-<img src="https://github.com/mattheussAL/test/blob/main/.github/assets/Untitled_%20Oct%2020%2C%202020%208_10%20PM.gif" width="800" height="400">
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2028%2C%202020%2010_56%20PM.gif" width="800" height="400">
 
 
 [Meu codigo](https://github.com/mattheussAL/30DiasCSS/tree/main/Desafios/dia6)
@@ -171,8 +171,8 @@ Gostou da ideia?
 * *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
 * *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
 
-##  Desafio dia 11 - Button two Effect hover Neon <a name="id06"></a>
-<img src="https://github.com/mattheussAL/30DiasCSS/blob/main/.github/assets/Untitled_%20Oct%2026%2C%202020%203_44%20PM.gif" width="800" height="400">
+##  Desafio dia 11 - Button Effect Hover and Animation <a name="id06"></a>
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2027%2C%202020%2011_46%20PM.gif" width="800" height="400">
 
 [Meu codigo](https://github.com/mattheussAL/30DiasCSS/tree/main/Desafios/dia11)
 
@@ -186,7 +186,7 @@ Gostou da ideia?
 * *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
 
 ##  Desafio dia 12 - Bouncing Balls <a name="id06"></a>
-<img src="https://github.com/mattheussAL/30DiasCSS/blob/main/.github/assets/Untitled_%20Oct%2026%2C%202020%203_44%20PM.gif" width="800" height="400">
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2028%2C%202020%207_58%20PM.gif" width="800" height="400">
 
 [Meu codigo](https://github.com/mattheussAL/30DiasCSS/tree/main/Desafios/dia12)
 
