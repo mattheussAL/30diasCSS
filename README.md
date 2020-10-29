@@ -1,4 +1,4 @@
-## 🚀 30DiasCSS 🚀
+## 🚀 30diasCSS 🚀
  
  Fala Devs, beleza? 🖖
 
@@ -11,11 +11,11 @@
 ## Regras gerais
 
 * Realizar um projeto por dia
-* Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30DiasCSS
+* Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasCSS
 * O projeto deve ser concluído até 23:59
 
 Gostou da ideia? 
-[Clique aqui](https://github.com/mattheussAL/30DiasCSS/issues/1) para participar.
+[Clique aqui](https://github.com/mattheussAL/30diasCSS/issues/1) para participar.
 
 * [Dia 01 - Ícone de mídia social em camadas](#id01)
 * [Dia 02 - Loader animado](#id02)
@@ -23,14 +23,20 @@ Gostou da ideia?
 * [Dia 04 - Botão com efeito](#id04)
 * [Dia 05 - Efeito pulsar](#id05)
 * [Dia 06 - Efeito Smoke text](#id06)
+* [Dia 07 - Efeito lightning text](#id07)
+* [Dia 08 - Preloader Animado](#id08)
+* [Dia 09 - Pendulo de Newton](#id09)
+* [Dia 10 - Particle Effects](#id10)
+* [Dia 11 - Button Effect Hover and Animation](#id11)
+* [Dia 12 - Bouncing Balls](#id12)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
 <img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2028%2C%202020%2010_47%20PM.gif" width="800" height="400">
 
-[Meu codigo](https://github.com/mattheussAL/30DiasCSS/tree/main/Desafios/dia1)
+[Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia1)
 
-[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diascss-css-html-activity-6719032959489339392-riUC) 
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diasCSS-css-html-activity-6719032959489339392-riUC) 
 
 
 ##### O que eu aprendi
@@ -47,7 +53,7 @@ Gostou da ideia?
 ##  Desafio dia 02 - Loader animado <a name="id02"></a>
 <img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2028%2C%202020%2010_49%20PM.gif" width="800" height="400">
 
-[Meu código](https://github.com/mattheussAL/30DiasCSS/tree/main/Desafios/dia2)
+[Meu código](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia2)
 
 [Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diasdecs-incentivo-aprender-activity-6719431125221036033-tnA2)
 
@@ -59,9 +65,9 @@ Gostou da ideia?
 ##  Desafio dia 03 - Mudança de cor de texto quando entra em outra div <a name="id03"></a>
 <img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2028%2C%202020%2010_51%20PM.gif" width="800" height="400">
 
-[Meu código](https://github.com/mattheussAL/30DiasCSS/tree/main/Desafios/dia3)
+[Meu código](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia3)
 
-[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diascss-web-frontend-activity-6719792266447220736-QiF0)
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diasCSS-web-frontend-activity-6719792266447220736-QiF0)
 
 
 ##### Dicas
@@ -74,9 +80,9 @@ Gostou da ideia?
 <img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2028%2C%202020%2010_53%20PM.gif" width="800" height="400">
 
 
-[Meu codigo](https://github.com/mattheussAL/30DiasCSS/tree/main/Desafios/dia4)
+[Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia4)
 
-[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diascss-frontend-web-activity-6720164432560840704-k5Xq)
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diasCSS-frontend-web-activity-6720164432560840704-k5Xq)
 
 ##### O que eu aprendi
 
@@ -90,9 +96,9 @@ Gostou da ideia?
 ##  Desafio dia 05 - Efeito pulsar <a name="id05"></a>
 <img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2028%2C%202020%2010_54%20PM.gif" width="800" height="400">
 
-[Meu codigo](https://github.com/mattheussAL/30DiasCSS/tree/main/Desafios/dia5)
+[Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia5)
 
-[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_web-frontend-30diascss-activity-6720740891012685825-q3CJ)
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_web-frontend-30diasCSS-activity-6720740891012685825-q3CJ)
 
 ##### O que eu aprendi
 
@@ -103,19 +109,19 @@ Gostou da ideia?
 <img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2028%2C%202020%2010_56%20PM.gif" width="800" height="400">
 
 
-[Meu codigo](https://github.com/mattheussAL/30DiasCSS/tree/main/Desafios/dia6)
+[Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia6)
 
-[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diascss-css-html-activity-6724476197276786688-kySp)
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diasCSS-css-html-activity-6724476197276786688-kySp)
 
 ##### O que eu aprendi
 
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 
 ##  Desafio dia 07 - Efeito lightning text <a name="id06"></a>
-<img src="https://github.com/mattheussAL/30DiasCSS/blob/main/.github/assets/Untitled_%20Oct%2022%2C%202020%208_38%20PM.gif" width="800" height="400">
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2022%2C%202020%208_38%20PM.gif" width="800" height="400">
 
 
-[Meu codigo](https://github.com/mattheussAL/30DiasCSS/tree/main/Desafios/dia7)
+[Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia7)
 
 [Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_web-dev-frontend-activity-6724875807656812544-uAWJ)
 
@@ -124,10 +130,10 @@ Gostou da ideia?
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 
 ##  Desafio dia 08 - Preloader Animado <a name="id06"></a>
-<img src="https://github.com/mattheussAL/30DiasCSS/blob/main/.github/assets/Untitled_%20Oct%2022%2C%202020%208_34%20PM.gif" width="800" height="400">
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2022%2C%202020%208_34%20PM.gif" width="800" height="400">
 
 
-[Meu codigo](https://github.com/mattheussAL/30DiasCSS/tree/main/Desafios/dia8)
+[Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia8)
 
 [Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_web-frontend-css-activity-6725180960171679744-vtF0)
 
@@ -140,12 +146,12 @@ Gostou da ideia?
 
 
 ##  Desafio dia 09 - Pendulo de Newton <a name="id06"></a>
-<img src="https://github.com/mattheussAL/30DiasCSS/blob/main/.github/assets/Untitled_%20Oct%2024%2C%202020%2012_20%20PM.gif" width="800" height="400">
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2024%2C%202020%2012_20%20PM.gif" width="800" height="400">
 
 
-[Meu codigo](https://github.com/mattheussAL/30DiasCSS/tree/main/Desafios/dia9)
+[Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia9)
 
-[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_web-frontend-30diascss-activity-6725542220952424448-UePt)
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_web-frontend-30diasCSS-activity-6725542220952424448-UePt)
 
 ##### O que eu aprendi
 
@@ -158,11 +164,11 @@ Gostou da ideia?
 
 
 ##  Desafio dia 10 - Particle Effects <a name="id06"></a>
-<img src="https://github.com/mattheussAL/30DiasCSS/blob/main/.github/assets/Untitled_%20Oct%2026%2C%202020%203_44%20PM.gif" width="800" height="400">
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2026%2C%202020%203_44%20PM.gif" width="800" height="400">
 
-[Meu codigo](https://github.com/mattheussAL/30DiasCSS/tree/main/Desafios/dia10)
+[Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia10)
 
-[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diascss-web-desenvolvimento-activity-6726565037755928576-m4oC)
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diasCSS-web-desenvolvimento-activity-6726565037755928576-m4oC)
 
 ##### O que eu aprendi
 
@@ -174,9 +180,9 @@ Gostou da ideia?
 ##  Desafio dia 11 - Button Effect Hover and Animation <a name="id06"></a>
 <img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2027%2C%202020%2011_46%20PM.gif" width="800" height="400">
 
-[Meu codigo](https://github.com/mattheussAL/30DiasCSS/tree/main/Desafios/dia11)
+[Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia11)
 
-[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diascss-web-desenvolvimento-activity-6726565037755928576-m4oC)
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diasCSS-web-desenvolvimento-activity-6726565037755928576-m4oC)
 
 ##### O que eu aprendi
 
@@ -188,9 +194,9 @@ Gostou da ideia?
 ##  Desafio dia 12 - Bouncing Balls <a name="id06"></a>
 <img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2028%2C%202020%207_58%20PM.gif" width="800" height="400">
 
-[Meu codigo](https://github.com/mattheussAL/30DiasCSS/tree/main/Desafios/dia12)
+[Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia12)
 
-[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diascss-evoluir-web-activity-6727362289105702912-xyMC)
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diasCSS-evoluir-web-activity-6727362289105702912-xyMC)
 
 ##### O que eu aprendi
 
