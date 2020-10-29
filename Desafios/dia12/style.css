@@ -1,0 +1,109 @@
+:root {
+  --color-one: #24edffee;
+  --color-two: #ff22e2ee;
+  --color-three: #22ff2dee;
+  --color-four: #fbff22ee;
+  --color-five: #ff2222ee;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #222;
+}
+
+.balls {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.balls ul {
+  border-bottom: 10px solid rgb(255, 255, 255);
+  display: flex;
+}
+
+.balls ul li {
+  width: 50px;
+  height: 50px;
+  background: #000;
+  list-style: none;
+  margin: 0 10px;
+  border-radius: 50%;
+  animation: jump 1s linear infinite;
+}
+/* 
+@keyframes rotateAnimate {
+  0%{
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+} */
+
+@keyframes jump {
+  0% {
+    transform: translateY(0);
+  }
+  
+  50% {
+    transform: translateY(-150px);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+
+}
+
+.balls ul li:nth-child(1) {
+  animation-delay: .2s;
+  background: var(--color-one);
+}
+.balls ul li:nth-child(1):hover {
+  box-shadow: 0 0 60px var(--color-one);
+}
+
+.balls ul li:nth-child(2) {
+  animation-delay: .4s;
+  background: var(--color-two);
+}
+
+.balls ul li:nth-child(2):hover {
+  box-shadow: 0 0 60px var(--color-two);
+}
+
+.balls ul li:nth-child(3) {
+  animation-delay: .6s;
+  background: var(--color-three);
+}
+
+.balls ul li:nth-child(3):hover {
+  box-shadow: 0 0 60px var(--color-three);
+}
+
+.balls ul li:nth-child(4) {
+  animation-delay: .8s;
+  background: var(--color-four);
+}
+
+.balls ul li:nth-child(4):hover {
+  box-shadow: 0 0 60px var(--color-four);
+}
+
+.balls ul li:nth-child(5) {
+  animation-delay: 1s;
+  background: var(--color-five);
+}
+
+.balls ul li:nth-child(5):hover {
+  box-shadow: 0 0 60px var(--color-five);
+}
+
+

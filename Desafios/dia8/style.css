@@ -1,0 +1,91 @@
+:root {
+  --bg: #333;
+  --loading-one:#ffff00;
+  --loading-two:#ff12e3;
+  --loading-three:#169ffa;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+
+  height: 100vh;
+
+  background: var(--bg);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.loader {
+  position: relative;
+
+  width: 150px;
+  height: 150px;
+}
+
+span {
+  position: absolute;
+
+  width: 50px;
+  height: 50px;
+
+  border-radius: 4px;
+  animation: chase 2s linear infinite;
+
+}
+
+span:nth-child(1) {
+  animation-delay: 1.4s;
+  background: var(--loading-one);
+}
+
+span:nth-child(2) {
+  animation-delay: 0.7s;
+  background: var(--loading-two);
+}
+
+span:nth-child(3) {
+  background: var(--loading-three);
+}
+
+
+
+@keyframes chase {
+  0% {
+    top: 0; left: 0;
+  }
+   
+  10% {
+    top: 0; left: 50%;
+  }
+
+  25% {
+    top: 0; left: 50%;
+  }
+
+  30% {
+    top: 50%; left: 50%;
+  }
+
+  50% {
+    top: 50%; left: 50%;
+  }
+
+  60% {
+    top: 50% ; left: 0;
+  }
+
+  75% {
+    top: 50% ; left: 0;
+  }
+
+  80% {
+    top: 0; left: 0;
+  }
+
+  100% {
+    top: 0; left: 0;
+  }
+}

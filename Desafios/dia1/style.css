@@ -1,0 +1,114 @@
+:root {
+  --face-color: #3B5999;
+  --twitter-color: #55ACEE;
+  --whatsapp-color: #25d366;
+  --linkedin-color: #0077B5;
+  --instagram-color: #E4405F;
+  
+  --bg-color: #fff;
+  --icon-color: #ccc;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+} 
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  min-height: 100vh;
+
+  background: var(--bg-color);
+}
+
+ul {
+  position: relative;
+  display: flex;
+
+  transform-style: preserve-3d;
+}
+
+ul li {
+  position: relative;
+
+  list-style: none;
+
+  width: 100px;
+  height: 100px;
+  margin: 0 70px;
+
+  transform: rotate(-30deg) skew(25deg);
+}
+
+ul li span {
+  position: absolute;
+
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+
+  background-color: #222;
+  color: var(--icon-color);
+
+  font-size: 30px !important;
+
+  transition: 0.5S;
+}
+ 
+ul li:hover span {
+  box-shadow: -1px 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+ul li:hover span:nth-child(5) {
+  transform: translate( 40px, -40px );
+  opacity: 1;
+}
+
+ul li:hover span:nth-child(4) {
+  transform: translate( 30px,-30px );
+  opacity: 0.8;
+}
+
+ul li:hover span:nth-child(3) {
+  transform: translate( 20px,-20px );
+  opacity: 0.6;
+}
+
+ul li:hover span:nth-child(2) {
+  transform: translate( 10px,-10px );
+  opacity: 0.4;
+}
+
+ul li:hover span:nth-child(1) {
+  transform: translate( 0px,-0px );
+  opacity: .2;
+}
+
+
+ul li:nth-child(1):hover span {
+  background-color: var(--face-color);
+}
+
+ul li:nth-child(2):hover span {
+  background-color: var(--twitter-color);
+}
+
+ul li:nth-child(3):hover span {
+  background-color: var(--instagram-color);
+}
+
+ul li:nth-child(4):hover span {
+  background-color: var(--linkedin-color);
+}
+
+ul li:nth-child(5):hover span {
+  background-color: var(--whatsapp-color);
+}

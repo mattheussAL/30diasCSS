@@ -1,0 +1,161 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 100%;
+  min-height: 100vh;
+
+  background: url('./img/hakuna.jpg') no-repeat;
+  background-position: center;
+  background-size: 100%;
+
+  overflow: hidden;
+}
+
+.particle {
+  position: relative;
+
+  min-width: 750px;
+  height: 750px;
+
+  margin: -150px;
+
+  transform-origin: right;
+  
+  animation: colorChange 5s linear infinite;
+}
+
+.particle:nth-child(even) {
+  transform-origin: left;
+}
+
+@keyframes colorChange {
+  0% {
+    filter: hue-rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    filter: hue-rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+.particle span {
+  position: absolute;
+  
+  top: calc(80px * var(--i));
+  left: calc(80px * var(--i));
+  bottom: calc(80px * var(--i));
+  right: calc(80px * var(--i));
+}
+
+.particle span:before {
+  content: '';
+  position: absolute;
+
+  top: 50%;
+  left: -8px;
+  width: 2px;
+  height: 2px;
+
+  padding: 8px;
+  box-shadow: 0 0 55px rgb(154, 197, 236);
+
+  border-radius: 50%;
+}
+
+.particle span:nth-child(3n + 1):before {
+  background: rgba(134, 255, 0, 1);
+  
+  box-shadow: 
+    0 0 20px rgba(134, 255, 0, 1),
+    0 0 40px rgba(134, 255, 0, 1),
+    0 0 60px rgba(134, 255, 0, 1),
+    0 0 80px rgba(134, 255, 0, 1),
+    0 0 0 8px rgba(134, 255, 0, .1),
+}
+
+.particle span:nth-child(3n + 2):before {
+  background: rgba(255, 214, 0, 1);
+  
+  box-shadow: 
+    0 0 20px rgba(255, 214, 0, 1),
+    0 0 40px rgba(255, 214, 0, 1),
+    0 0 60px rgba(255, 214, 0, 1),
+    0 0 80px rgba(255, 214, 0, 1),
+    0 0 0 8px rgba(255, 214, 0, .1),
+}
+
+.particle span:nth-child(3n + 3):before {
+  background: rgba(0, 266, 255, 1);
+  
+  box-shadow: 
+    0 0 20px rgba(0, 266, 255, 1),
+    0 0 40px rgba(0, 266, 255, 1),
+    0 0 60px rgba(0, 266, 255, 1),
+    0 0 80px rgba(0, 266, 255, 1),
+    0 0 0 8px rgba(0, 266, 255, .1),
+}
+
+.particle span:nth-child(3n + 1) {
+  animation: animate 3s alternate infinite
+}
+
+.particle span:nth-child(3n + 2) {
+  animation: animate-reverse 0.2s alternate infinite
+}
+
+.particle span:nth-child(3n + 3) {
+  animation: animate-reverse 1s alternate infinite
+}
+
+@keyframes animate {
+  0% {
+    transform: rotate(360deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes animate {
+  0% {
+    transform: rotate(60deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

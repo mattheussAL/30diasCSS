@@ -1,0 +1,59 @@
+:root {
+  --bg: #27303d;
+  --color-text: #f2f2f2;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+
+  background: var(--bg);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  overflow: hidden;
+}
+
+ul {
+  font-family: 'Patua One', cursive, sans-serif;
+  font-size: 8em;
+
+  margin: 0;
+  padding: 0;
+
+  display: flex;
+  
+  cursor: pointer;
+}
+
+ul li {
+  color: var(--color-text);
+  margin-top: -1.3em;
+
+  list-style: none;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  transition: 2s;
+}
+
+img {
+  height: 3.8em;
+  margin-top: 2em;
+}
+
+ul:hover li {
+  transform: rotate(45deg) translateY(-2em);
+  opacity: 0;
+  filter: blur(.1em);
+}
