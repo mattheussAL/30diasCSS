@@ -36,7 +36,7 @@ Gostou da ideia?
 
 [Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia1)
 
-[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diasCSS-css-html-activity-6719032959489339392-riUC) 
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diascss-css-html-activity-6719032959489339392-riUC) 
 
 
 ##### O que eu aprendi
@@ -67,7 +67,7 @@ Gostou da ideia?
 
 [Meu código](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia3)
 
-[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diasCSS-web-frontend-activity-6719792266447220736-QiF0)
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diascss-web-frontend-activity-6719792266447220736-QiF0)
 
 
 ##### Dicas
@@ -82,7 +82,7 @@ Gostou da ideia?
 
 [Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia4)
 
-[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diasCSS-frontend-web-activity-6720164432560840704-k5Xq)
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diascss-frontend-web-activity-6720164432560840704-k5Xq)
 
 ##### O que eu aprendi
 
@@ -98,7 +98,7 @@ Gostou da ideia?
 
 [Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia5)
 
-[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_web-frontend-30diasCSS-activity-6720740891012685825-q3CJ)
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_web-frontend-30diascss-activity-6720740891012685825-q3CJ)
 
 ##### O que eu aprendi
 
@@ -111,7 +111,7 @@ Gostou da ideia?
 
 [Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia6)
 
-[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diasCSS-css-html-activity-6724476197276786688-kySp)
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diascss-css-html-activity-6724476197276786688-kySp)
 
 ##### O que eu aprendi
 
@@ -151,7 +151,7 @@ Gostou da ideia?
 
 [Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia9)
 
-[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_web-frontend-30diasCSS-activity-6725542220952424448-UePt)
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_web-frontend-30diascss-activity-6725542220952424448-UePt)
 
 ##### O que eu aprendi
 
@@ -168,7 +168,7 @@ Gostou da ideia?
 
 [Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia10)
 
-[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diasCSS-web-desenvolvimento-activity-6726565037755928576-m4oC)
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diascss-web-desenvolvimento-activity-6726565037755928576-m4oC)
 
 ##### O que eu aprendi
 
@@ -182,7 +182,7 @@ Gostou da ideia?
 
 [Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia11)
 
-[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diasCSS-web-desenvolvimento-activity-6726565037755928576-m4oC)
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_web-developer-css-activity-6727046616785682432-_OjA)
 
 ##### O que eu aprendi
 
@@ -196,7 +196,7 @@ Gostou da ideia?
 
 [Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia12)
 
-[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diasCSS-evoluir-web-activity-6727362289105702912-xyMC)
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diascss-evoluir-web-activity-6727362289105702912-xyMC)
 
 ##### O que eu aprendi
 
