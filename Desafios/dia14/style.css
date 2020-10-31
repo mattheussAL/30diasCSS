@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #222;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flip {
+  width: 10px;
+  height: 10px;
+  float: left;
+  perspective: 1000px;
+  padding: 420px 320px 0 380px;
+}
+
+.flip:last-child{
+  margin-right: 600px;
+}
+
+.flip .frente {
+  position: absolute;
+  transform: rotateY(0deg);
+  backface-visibility: hidden;
+  transition: all .4s linear;
+  box-shadow: 0 0 50px rgb(219, 114, 16);
+  border-radius: 50px;
+  padding: 20px;
+}
+
+.flip .fundo {
+  position: absolute;
+  transform: rotateY(180deg);
+  backface-visibility: hidden;
+  transition: all .4s linear;
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  box-shadow: 0 0 50px rgb(219, 114, 16);
+  border-radius: 50px;
+  padding: 20px;
+}
+
+.flip:hover .frente {
+  transform: rotateY(-180deg);
+  cursor: pointer;
+}
+
+.flip:hover .fundo {
+  transform: rotateY(0deg);
+  cursor: pointer;
+}
