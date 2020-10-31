@@ -31,6 +31,9 @@ Gostou da ideia?
 * [Dia 10 - Particle Effects](#id10)
 * [Dia 11 - Button Effect Hover and Animation](#id11)
 * [Dia 12 - Bouncing Balls](#id12)
+* [Dia 13 - Loading with Effect](#id12)
+* [Dia 14 - Pumpkins (Halloween)](#id14)
+
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -205,4 +208,28 @@ Gostou da ideia?
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[keyframes](https://www.w3schools.com/css/css3_animations.asp)*
 
+##  Desafio dia 13 - Loading with Effect <a name="id06"></a>
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2029%2C%202020%2010_52%20PM.gif" width="800" height="400">
+
+[Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia13)
+
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diascss-web-frontend-activity-6727759620468690944-H2cn)
+
+##### O que eu aprendi
+
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[-webkit-box-reflect](https://www.w3schools.com/css/css3_animations.asp)*
+
+##  Desafio dia 14 -  Pumpkins (Halloween) <a name="id06"></a>
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2030%2C%202020%2011_19%20PM.gif" width="800" height="400">
+
+[Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia14)
+
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_javascript-30diascss-web-activity-6728127860969631744-QYe4)
+
+##### O que eu aprendi
+
+* *[transform](https://www.w3schools.com/css/css3_animations.asp)*
+* *[perspective](https://www.w3schools.com/css/css3_animations.asp)*
+* *[backface-visibility](https://www.w3schools.com/css/css3_animations.asp)*
 
