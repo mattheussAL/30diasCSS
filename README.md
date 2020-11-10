@@ -33,13 +33,13 @@ Gostou da ideia?
 * [Dia 12 - Bouncing Balls](#id12)
 * [Dia 13 - Loading with Effect](#id12)
 * [Dia 14 - Pumpkins (Halloween)](#id14)
-* [Fogos de Artifício](#id15)
-* [Carrousel 3D](#id16)
-* [30 Dias de CSS](#id17)
-* [Loading Animated Light](#id18)
-* [Background Animado](#id19)
-* [Cube 3D](#id20)
-* [Dripping Liquid](#id21)
+* [Dia 15 - Fogos de Artifício](#id15)
+* [Dia 16 - Carrousel 3D](#id16)
+* [Dia 17 - 30 Dias de CSS](#id17)
+* [Dia 18 - Loading Animated Light](#id18)
+* [Dia 19 - Background Animado](#id19)
+* [Dia 20 - Cube 3D](#id20)
+* [Dia 21 - Dripping Liquid](#id21)
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
 <img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2028%2C%202020%2010_47%20PM.gif" width="800" height="400">
