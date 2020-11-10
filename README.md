@@ -33,8 +33,13 @@ Gostou da ideia?
 * [Dia 12 - Bouncing Balls](#id12)
 * [Dia 13 - Loading with Effect](#id12)
 * [Dia 14 - Pumpkins (Halloween)](#id14)
-
-
+* [Fogos de Artifício](#id15)
+* [Carrousel 3D](#id16)
+* [30 Dias de CSS](#id17)
+* [Loading Animated Light](#id18)
+* [Background Animado](#id19)
+* [Cube 3D](#id20)
+* [Dripping Liquid](#id21)
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
 <img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2028%2C%202020%2010_47%20PM.gif" width="800" height="400">
@@ -232,4 +237,92 @@ Gostou da ideia?
 * *[transform](https://www.w3schools.com/css/css3_animations.asp)*
 * *[perspective](https://www.w3schools.com/css/css3_animations.asp)*
 * *[backface-visibility](https://www.w3schools.com/css/css3_animations.asp)*
+
+##  Desafio dia 15 -  Fogos de Artifício <a name="id06"></a>
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2030%2C%202020%2011_19%20PM.gif" width="800" height="400">
+
+[Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia15)
+
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diascss-html-css-activity-6728497015795290112-zsQd)
+
+##### O que eu aprendi
+
+* *[Animation](https://www.w3schools.com/css/css3_animations.asp)*
+
+##  Desafio dia 16 -  Carrousel 3D <a name="id06"></a>
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2030%2C%202020%2011_19%20PM.gif" width="800" height="400">
+
+[Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia16)
+
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diascss-css-html-activity-6728840610993729536-_0jQ)
+
+##### O que eu aprendi
+
+* *[transform](https://www.w3schools.com/css/css3_animations.asp)*
+* *[perspective](https://www.w3schools.com/css/css3_animations.asp)*
+* *[backface-visibility](https://www.w3schools.com/css/css3_animations.asp)*
+
+##  Desafio dia 17 -  30 Dias de CSS <a name="id06"></a>
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2030%2C%202020%2011_19%20PM.gif" width="800" height="400">
+
+[Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia17)
+
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diascss-css-html-activity-6729584854339473408-5RdU)
+
+##### O que eu aprendi
+
+* *[animação](https://www.w3schools.com/css/css3_animations.asp)*
+* *[nth-child()](https://www.w3schools.com/css/css3_animations.asp)*
+
+
+##  Desafio dia 18 -  Loading Animated Light  <a name="id06"></a>
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2030%2C%202020%2011_19%20PM.gif" width="800" height="400">
+
+[Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia18)
+
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diascss-web-frontend-activity-6729945202418581504-rLiG)
+
+##### O que eu aprendi
+
+* *[animação](https://www.w3schools.com/css/css3_animations.asp)*
+* *[rotate 360](https://www.w3schools.com/css/css3_animations.asp)*
+
+##  Desafio dia 19 -  Background Animado <a name="id06"></a>
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2030%2C%202020%2011_19%20PM.gif" width="800" height="400">
+
+[Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia19)
+
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_aprender-30diascss-web-activity-6730651645551636480-O4Dz)
+
+##### O que eu aprendi
+
+* *[animação](https://www.w3schools.com/css/css3_animations.asp)*
+* *[colors](https://www.w3schools.com/css/css3_animations.asp)*
+
+
+##  Desafio dia 20 - Cube 3D <a name="id06"></a>
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2030%2C%202020%2011_19%20PM.gif" width="800" height="400">
+
+[Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia20)
+
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diascss-web-css-activity-6731017467293908992-5kHy)
+
+##### O que eu aprendi
+
+* *[animação](https://www.w3schools.com/css/css3_animations.asp)*
+* *[perspective](https://www.w3schools.com/css/css3_animations.asp)*
+* *[3D](https://www.w3schools.com/css/css3_animations.asp)*
+
+##  Desafio dia 21 -  Dripping Liquid <a name="id06"></a>
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2030%2C%202020%2011_19%20PM.gif" width="800" height="400">
+
+[Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia21)
+
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos-b5038a184_30diascss-css-web-activity-6731846798299680768-TtKL)
+
+##### O que eu aprendi
+
+* *[transform](https://www.w3schools.com/css/css3_animations.asp)*
+* *[svg](https://www.w3schools.com/css/css3_animations.asp)*
+* *[backface](https://www.w3schools.com/css/css3_animations.asp)*
 
