@@ -1,117 +1,161 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
 }
 
-html,
 body {
-  display: grid;
-  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
   width: 100%;
-  place-items: center;
-  background: linear-gradient(315deg, #fff 0%, #d7e1ec 74%);
-  font-family: 'Roboto', sans-serif;
-}
+  min-height: 100vh;
 
-.wrapper .button {
-  display: inline-block;
-  width: 60px;
-  height: 60px;
-  float: left;
-  margin: 0 5px;
-  background: #fff;
+  background: url('./img/hakuna.jpg') no-repeat;
+  background-position: center;
+  background-size: 100%;
+
   overflow: hidden;
-  border-radius: 50px;
-  cursor: pointer;
-  box-shadow: 0 10px 10px rgba(0,0,0,.1);
-  transition: all .3s ease-out;
 }
 
-.wrapper .button .icon {
-  display: inline-block;
-  width: 60px;
-  height: 60px;
-  text-align: center;
-  border-radius: 50px;
-  box-sizing: border-box;
-  line-height: 60px;
-  transition: all .3s ease-out;
+.particle {
+  position: relative;
 
+  min-width: 750px;
+  height: 750px;
+
+  margin: -150px;
+
+  transform-origin: right;
+  
+  animation: colorChange 5s linear infinite;
 }
 
-.wrapper .button:hover {
-  width: 200px;
+.particle:nth-child(even) {
+  transform-origin: left;
 }
 
-.wrapper .button:nth-child(1):hover .icon {
-  background: #4267B2;
-  color: #fff;
-}
-
-.wrapper .button:nth-child(2):hover .icon {
-  background: #1DA1F2;
-  color: #fff;
-}
-
-.wrapper .button:nth-child(3):hover .icon {
-  background: #333;
-  color: #fff;
-}
-
-.wrapper .button:nth-child(4):hover .icon {
-  background: #E1306C;
-  color: #fff;
-}
-
-.wrapper .button:nth-child(5):hover .icon {
-  background: #FF0000;
-  color: #fff;
-}
-
-.wrapper .button .icon i {
-  font-size: 25px;
-  line-height: 60px;
-}
-
-.wrapper .button .icon i:hover {
-  animation: rotateAnimate 2s linear infinite;
-}
-
-@keyframes rotateAnimate {
-  0%{
+@keyframes colorChange {
+  0% {
+    filter: hue-rotate(0deg);
     transform: rotate(0deg);
   }
   100% {
+    filter: hue-rotate(360deg);
     transform: rotate(360deg);
   }
 }
 
-.wrapper .button span {
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 60px;
-  margin-left: 10px;
-  transition: all .3s ease-out;
+.particle span {
+  position: absolute;
+  
+  top: calc(80px * var(--i));
+  left: calc(80px * var(--i));
+  bottom: calc(80px * var(--i));
+  right: calc(80px * var(--i));
+}
+
+.particle span:before {
+  content: '';
+  position: absolute;
+
+  top: 50%;
+  left: -8px;
+  width: 2px;
+  height: 2px;
+
+  padding: 8px;
+  box-shadow: 0 0 55px rgb(154, 197, 236);
+
+  border-radius: 50%;
+}
+
+.particle span:nth-child(3n + 1):before {
+  background: rgba(134, 255, 0, 1);
+  
+  box-shadow: 
+    0 0 20px rgba(134, 255, 0, 1),
+    0 0 40px rgba(134, 255, 0, 1),
+    0 0 60px rgba(134, 255, 0, 1),
+    0 0 80px rgba(134, 255, 0, 1),
+    0 0 0 8px rgba(134, 255, 0, .1),
+}
+
+.particle span:nth-child(3n + 2):before {
+  background: rgba(255, 214, 0, 1);
+  
+  box-shadow: 
+    0 0 20px rgba(255, 214, 0, 1),
+    0 0 40px rgba(255, 214, 0, 1),
+    0 0 60px rgba(255, 214, 0, 1),
+    0 0 80px rgba(255, 214, 0, 1),
+    0 0 0 8px rgba(255, 214, 0, .1),
+}
+
+.particle span:nth-child(3n + 3):before {
+  background: rgba(0, 266, 255, 1);
+  
+  box-shadow: 
+    0 0 20px rgba(0, 266, 255, 1),
+    0 0 40px rgba(0, 266, 255, 1),
+    0 0 60px rgba(0, 266, 255, 1),
+    0 0 80px rgba(0, 266, 255, 1),
+    0 0 0 8px rgba(0, 266, 255, .1),
+}
+
+.particle span:nth-child(3n + 1) {
+  animation: animate 3s alternate infinite
+}
+
+.particle span:nth-child(3n + 2) {
+  animation: animate-reverse 0.2s alternate infinite
+}
+
+.particle span:nth-child(3n + 3) {
+  animation: animate-reverse 1s alternate infinite
+}
+
+@keyframes animate {
+  0% {
+    transform: rotate(360deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes animate {
+  0% {
+    transform: rotate(60deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
 }
 
 
-.wrapper .button:nth-child(1):hover span {
-  color: #4267B2;
-}
 
-.wrapper .button:nth-child(2):hover span {
-  color: #1DA1F2;
-}
 
-.wrapper .button:nth-child(3):hover span {
-  color: #333;
-}
 
-.wrapper .button:nth-child(4):hover span {
-  color: #E1306C;
-}
 
-.wrapper .button:nth-child(5):hover span {
-  color: #FF0000;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
