@@ -1,0 +1,293 @@
+:root {
+  --player-shadow: #840931; --player: #c71111;
+
+  --red: #C71111;    --blue: #142ED2;
+  --green: #12812E;  --pink: #EE54BC;
+  --orange: #EF7D10; --yellow: #F9F75A;
+  --black: #3F484E;  --white: #D7E2F3;
+  --purple: #6B30BC; --brown: #704A1E;
+  --cyan: #44fCD7;   --lime: #4FF03A;
+}
+
+*,* :before, *:after  {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: #fcdb1f;
+}
+
+/* <== Player ==> */
+
+.player {
+  position: absolute;
+
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+
+  width: 140px;
+  height: 200px;
+
+  margin: auto;
+  
+  background: var(--player-shadow);
+
+  border: 10px solid #000000;
+  border-bottom: none;
+  border-radius: 60px 80px 0 0;
+
+  transition: background 2s ease;
+
+  z-index: 1;
+}
+
+.player:after {
+  content: "";
+  position: absolute;
+
+  top: 2.5px;
+  left: 6px;
+  width: 92%;
+  height: 85%;
+
+  background: var(--player);
+
+  border-radius:58% 70% 28% 42% / 28% 56% 88% 89%;
+
+  transition: background 2s ease;
+}
+
+.legs {
+  position: absolute;
+
+  left: -10px;
+  bottom: -50px;
+  width: 60px;
+  height: 50px;
+  
+  background: var(--player-shadow);
+
+  border: 10px solid black;
+  border-top: none;
+  border-radius: 0 0 22px 22px;
+
+  transition: background 2s ease;
+
+  z-index: 1;
+}
+
+.legs:before {
+  content: "";
+  position: absolute;
+
+  right: -90px;
+  width: 60px;
+  height: 45px;
+
+  background: var(--player-shadow);
+
+  border: 10px solid black;
+  border-top: none;
+  border-radius: 0 0 22px 22px;
+
+  transition: background 2s ease;
+}
+
+.legs:after {
+  content: "";
+  position: absolute;
+
+  top: -10px;
+  left: 40px;
+  width: 55px;
+  height: 10px;
+
+  background: black;
+
+  border-radius: 0 0 10px 0;
+}
+
+.back  {
+  position: absolute;
+
+  top: 65px;
+  left: -45px;
+  width: 35px;
+  height: 120px;
+
+  background: var(--player);
+
+  border: 10px solid black;
+  border-right: none;
+  border-radius: 20px 0 0 20px;
+
+  transition: background 2s ease;
+}
+
+.back:before {
+  content: "";
+
+  position: absolute;
+
+  bottom: -0.5px;
+  left: -1px;
+  width: 26px;
+  height: 78px;
+
+  background: var(--player-shadow);
+
+  border-radius: 12px 0 0 8px;
+
+  transition: background 2s ease;
+}
+
+.glass {
+  position: absolute;
+
+  top: 30px;
+  left: 40px;
+  height: 75px;
+  width: 110px;
+
+  background: #225381;
+
+  border: 10px solid black;
+  border-radius: 25px 50px 30px 30px ;
+
+  z-index: 2;
+}
+
+.glass:before {
+  content: "";
+
+  position: absolute;
+
+  top: 0px;
+  right: 0px;
+  width: 85%;
+  height: 65%;
+
+  background: #71D4EC;
+
+  border-radius: 0 28px 3px 30px ;
+}
+
+.glass:after {
+  content: "";
+
+  position: absolute;
+
+  left: 39px;
+  top: 5px;
+  width: 45%;
+  height: 22%;
+
+  background: #F7F7F7;
+
+  border-radius: 25px;
+
+  transform: rotate(6deg);
+}
+
+.shadow {
+  position: absolute;
+
+  bottom: -60px;
+  right: -40px;
+  height: 40px;
+  width: 210px;
+  
+  background:#99820033;
+
+
+  border-radius: 50%;
+
+  z-index: 0;
+}
+
+/* <== Custom ==> */
+
+.right {
+  width: 27%;
+  height: 60vh;
+  
+  border-radius: 20px;
+}
+
+.grid-container {
+  display: grid;
+
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  gap: 2% 2%;
+
+  cursor: pointer;
+
+  height: 75%;
+
+  margin: 5% 15% 20% 15%;
+}
+
+.grid-container > button {
+  border: 8px solid black;
+
+  border-radius: 40px;
+
+  cursor: pointer;
+
+  outline: none;
+}
+
+/* <== Colors ==>  */
+
+.red { 
+  background: var(--red);
+}
+
+.blue {
+   background: var(--blue);
+}
+
+.green { 
+  background: var(--green);
+}
+
+.pink {
+  background: var(--pink);
+}
+
+.orange {
+  background: var(--orange);
+}
+
+.yellow {
+  background: var(--yellow);
+}
+
+.black {
+  background: var(--black);
+}
+
+.white {
+  background: var(--white);
+}
+
+.purple {
+  background: var(--purple);
+}
+
+.brown {
+  background: var(--brown);
+}
+
+.cyan {
+  background: var(--cyan);
+}
+
+.lime {
+  background: var(--lime);
+}
