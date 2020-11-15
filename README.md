@@ -239,7 +239,7 @@ Gostou da ideia?
 * *[backface-visibility](https://www.w3schools.com/css/css3_animations.asp)*
 
 ##  Desafio dia 15 -  Fogos de Artifício <a name="id06"></a>
-<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/Untitled_%20Oct%2031%2C%202020%2011_48%20PM.gif" width="800" height="400">
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2031%2C%202020%2011_48%20PM.gif" width="800" height="400">
 
 [Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia15)
 
@@ -250,7 +250,7 @@ Gostou da ideia?
 * *[Animation](https://www.w3schools.com/css/css3_animations.asp)*
 
 ##  Desafio dia 16 -  Carrousel 3D <a name="id06"></a>
-<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/Untitled_%20Nov%201%2C%202020%209_40%20PM.gif" width="800" height="400">
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Nov%201%2C%202020%209_40%20PM.gif" width="800" height="400">
 
 [Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia16)
 
@@ -265,7 +265,7 @@ Gostou da ideia?
 
 
 ##  Desafio dia 17 -  30 Dias de CSS <a name="id06"></a>
-<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/Untitled_%20Nov%203%2C%202020%2011_53%20PM.gif" width="800" height="400">
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Nov%203%2C%202020%2011_53%20PM.gif" width="800" height="400">
 
 [Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia17)
 
@@ -278,7 +278,7 @@ Gostou da ideia?
 
 
 ##  Desafio dia 18 -  Loading Animated Light  <a name="id06"></a>
-<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/Untitled_%20Nov%204%2C%202020%2011_45%20PM.gif" width="800" height="400">
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Nov%204%2C%202020%2011_45%20PM.gif" width="800" height="400">
 
 [Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia18)
 
@@ -290,7 +290,7 @@ Gostou da ideia?
 * *[rotate 360](https://www.w3schools.com/css/css3_animations.asp)*
 
 ##  Desafio dia 19 -  Background Animado <a name="id06"></a>
-<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/Untitled_%20Nov%205%2C%202020%2011_22%20PM.gif" width="800" height="400">
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Nov%205%2C%202020%2011_22%20PM.gif" width="800" height="400">
 
 [Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia19)
 
@@ -303,7 +303,7 @@ Gostou da ideia?
 
 
 ##  Desafio dia 20 - Cube 3D <a name="id06"></a>
-<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/Untitled_%20Nov%207%2C%202020%2010_43%20PM.gif" width="800" height="400">
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Nov%207%2C%202020%2010_43%20PM.gif" width="800" height="400">
 
 [Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia20)
 
@@ -316,7 +316,7 @@ Gostou da ideia?
 * *[3D](https://www.w3schools.com/css/css3_animations.asp)*
 
 ##  Desafio dia 21 -  Dripping Liquid <a name="id06"></a>
-<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/Untitled_%20Nov%2010%2C%202020%205_38%20AM.gif" width="800" height="400">
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Nov%2010%2C%202020%205_38%20AM.gif" width="800" height="400">
 
 [Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia21)
 
@@ -328,28 +328,8 @@ Gostou da ideia?
 * *[svg](https://www.w3schools.com/css/css3_animations.asp)*
 * *[backface](https://www.w3schools.com/css/css3_animations.asp)*
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ##  Desafio dia 22 -  Buttons Neon Shadow <a name="id06"></a>
-<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/Untitled_%20Nov%2010%2C%202020%205_38%20AM.gif" width="800" height="400">
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Nov%2010%2C%202020%205_38%20AM.gif" width="800" height="400">
 
 [Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia22)
 
@@ -363,7 +343,7 @@ Gostou da ideia?
 * *[transition](https://www.w3schools.com/css/css3_animations.asp)*
 
 ##  Desafio dia 23 -  Mouse Move <a name="id06"></a>
-<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/Untitled_%20Nov%2010%2C%202020%205_38%20AM.gif" width="800" height="400">
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Nov%2012%2C%202020%2011_05%20PM.gif" width="800" height="400">
 
 [Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia23)
 
@@ -376,7 +356,7 @@ Gostou da ideia?
 * *[backface](https://www.w3schools.com/css/css3_animations.asp)*
 
 ##  Desafio dia 24 -  Efeito Liquido <a name="id06"></a>
-<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/Untitled_%20Nov%2013%2C%202020%2011_39%20PM.gif" width="800" height="400">
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Nov%2013%2C%202020%2011_39%20PM.gif" width="800" height="400">
 
 [Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia24)
 
@@ -390,7 +370,7 @@ Gostou da ideia?
 
 
 ##  Desafio dia 25 -  Coração Pulsar <a name="id06"></a>
-<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/Untitled_%20Nov%2014%2C%202020%2011_56%20PM.gif" width="800" height="400">
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Nov%2014%2C%202020%2011_56%20PM.gif" width="800" height="400">
 
 [Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia25)
 
@@ -404,7 +384,7 @@ Gostou da ideia?
 
 
 ##  Desafio dia 26 -  Amoung Us <a name="id06"></a>
-<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/Untitled_%20Nov%2015%2C%202020%205_56%20PM.gif" width="800" height="400">
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Nov%2015%2C%202020%205_56%20PM.gif" width="800" height="400">
 
 [Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia26)
 
