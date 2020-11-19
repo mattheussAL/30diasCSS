@@ -1,0 +1,410 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #839B97;
+  height: 100vh;
+}
+
+.clock {
+  position: absolute;
+
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+
+  width: 200px;
+  height: 200px;
+
+  margin: auto;
+
+  background: linear-gradient(to right, #FFF, #d8d4d4);
+
+  border-radius: 50%;
+  border: 10px solid #34626C;
+}
+
+.clock .top {
+  position: absolute;
+
+  left: 0;
+  right: 0;
+
+  width: 3px;
+  height: 8px;
+
+  margin: 0 auto;
+
+  background: #262626;
+}
+
+.clock .right {
+  position: absolute;
+
+  top: 0;
+  right: 0;
+  bottom: 0;
+  
+  width: 8px;
+  height: 3px;
+
+  margin: auto;
+
+  background: #262626;
+}
+
+.clock .bottom {
+  position: absolute;
+
+  left: 0;
+  right: 0;
+  bottom: 0;
+  
+  width: 3px;
+  height: 8px;
+
+  margin: 0 auto;
+
+  background: #262626;
+}
+
+.clock .left {
+  position: absolute;
+
+  top: 0;
+  left: 0;
+  bottom: 0;
+  
+  width: 8px;
+  height: 3px;
+
+  margin: auto;
+
+  background: #262626;
+}
+
+.clock .center {
+  position: absolute;
+
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+  width: 6px;
+  height: 6px;
+
+  margin: auto;
+
+  background: #262626;
+
+  border-radius: 50%;
+}
+
+.clock  .hour {
+  position: absolute;
+
+  left: 0;
+  right: 0;
+
+  width: 3px;
+  height: 100%;
+
+  margin: 0 auto;
+
+  animation: time 60s infinite linear;
+}
+
+.clock .hour::before {
+  content: '';
+
+  position: absolute;
+
+  top: 30px;
+
+  width: 2px;
+  height: 60px;
+
+  background: #262626;
+}
+
+.clock .minute {
+  position: absolute;
+
+  left: 0;
+  right: 0;
+
+  width: 1px;
+  height: 100%;
+
+  margin: 0 auto;
+
+  animation: time 30s infinite linear;
+}
+
+.clock .minute::before {
+  content: '';
+
+  position: absolute;
+
+  top: 50px;
+
+  width: 1px;
+  height: 40px;
+
+  background: #262626;
+}
+
+.clock .second {
+  position: absolute;
+
+  left: 0;
+  right: 0;
+
+  width: 2px;
+  height: 100%;
+
+  margin: 0 auto;
+
+
+  animation: time 15s infinite linear;
+}
+
+.clock .second::before {
+  content: '';
+  
+  position: absolute;
+
+  top: 45px;
+
+  width: 2px;
+  height: 43px;
+
+  background: #FD1111;
+}
+
+@keyframes time {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
