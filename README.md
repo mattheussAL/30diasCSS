@@ -40,6 +40,15 @@ Gostou da ideia?
 * [Dia 19 - Background Animado](#id19)
 * [Dia 20 - Cube 3D](#id20)
 * [Dia 21 - Dripping Liquid](#id21)
+* [Dia 22 - Buttons Neon Shadow](#id22)
+* [Dia 23 - Mouse Move](#id23)
+* [Dia 24 - Efeito Liquido](#id24)
+* [Dia 25 - Coração Pulsar](#id25)
+* [Dia 26 - Amoung Us](#id26)
+* [Dia 27 - Rua Animation](#id27)
+* [Dia 28 - Máquina de Escrever](#id28)
+* [Dia 29 - Relógio](#id29)
+* [Dia 30 - Amoung Us](#id30)
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
 <img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2028%2C%202020%2010_47%20PM.gif" width="800" height="400">
@@ -397,3 +406,59 @@ Gostou da ideia?
 * *[::after](https://www.w3schools.com/css/css3_animations.asp)*
 * *[transform](https://www.w3schools.com/css/css3_animations.asp)*
 
+
+##  Desafio dia 27 -  Amoung Us <a name="id06"></a>
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/Untitled_%20Nov%2016%2C%202020%2011_41%20PM.gif" width="800" height="400">
+
+[Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia27)
+
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos_30diascss-web-css-activity-6734293086328909824-mnqe)
+
+##### O que eu aprendi
+
+* *[colors](https://www.w3schools.com/css/css3_animations.asp)*
+* *[::before](https://www.w3schools.com/css/css3_animations.asp)*
+* *[::after](https://www.w3schools.com/css/css3_animations.asp)*
+* *[transform](https://www.w3schools.com/css/css3_animations.asp)*
+
+##  Desafio dia 28 -  Máquina de Escrever <a name="id06"></a>
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/Untitled_%20Nov%2017%2C%202020%2011_49%20PM.gif" width="800" height="400">
+
+[Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia28)
+
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos_30diascss-css-web-activity-6734656632023740416-8fXR)
+
+##### O que eu aprendi
+
+* *[colors](https://www.w3schools.com/css/css3_animations.asp)*
+* *[::before](https://www.w3schools.com/css/css3_animations.asp)*
+* *[::after](https://www.w3schools.com/css/css3_animations.asp)*
+* *[transform](https://www.w3schools.com/css/css3_animations.asp)*
+
+##  Desafio dia 29 - Relógio <a name="id06"></a>
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/Untitled_%20Nov%2018%2C%202020%2011_35%20PM.gif" width="800" height="400">
+
+[Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia30)
+
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos_30diascss-css-web-activity-6735015600063578112-OeoU)
+
+##### O que eu aprendi
+
+* *[colors](https://www.w3schools.com/css/css3_animations.asp)*
+* *[::before](https://www.w3schools.com/css/css3_animations.asp)*
+* *[::after](https://www.w3schools.com/css/css3_animations.asp)*
+* *[transform](https://www.w3schools.com/css/css3_animations.asp)*
+
+##  Desafio dia 30 - Cards Finais <a name="id06"></a>
+<img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/Untitled_%20Nov%2020%2C%202020%2012_05%20AM.gif" width="800" height="400">
+
+[Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia30)
+
+[Post LinkedIn](https://www.linkedin.com/posts/matheus-alves-dos-santos_30diascss-fim-css-activity-6735388911490625536-yq8S)
+
+##### O que eu aprendi
+
+* *[colors](https://www.w3schools.com/css/css3_animations.asp)*
+* *[::before](https://www.w3schools.com/css/css3_animations.asp)*
+* *[::after](https://www.w3schools.com/css/css3_animations.asp)*
+* *[transform](https://www.w3schools.com/css/css3_animations.asp)*
