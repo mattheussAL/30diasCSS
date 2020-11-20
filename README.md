@@ -48,7 +48,7 @@ Gostou da ideia?
 * [Dia 27 - Rua Animation](#id27)
 * [Dia 28 - Máquina de Escrever](#id28)
 * [Dia 29 - Relógio](#id29)
-* [Dia 30 - Amoung Us](#id30)
+* [Dia 30 - Cards Finais](#id30)
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
 <img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/assets/Untitled_%20Oct%2028%2C%202020%2010_47%20PM.gif" width="800" height="400">
@@ -407,7 +407,7 @@ Gostou da ideia?
 * *[transform](https://www.w3schools.com/css/css3_animations.asp)*
 
 
-##  Desafio dia 27 -  Amoung Us <a name="id06"></a>
+##  Desafio dia 27 -  Rua Animation <a name="id06"></a>
 <img src="https://github.com/mattheussAL/30diasCSS/blob/main/.github/Untitled_%20Nov%2016%2C%202020%2011_41%20PM.gif" width="800" height="400">
 
 [Meu codigo](https://github.com/mattheussAL/30diasCSS/tree/main/Desafios/dia27)
