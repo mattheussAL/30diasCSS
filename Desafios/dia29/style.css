@@ -5,7 +5,7 @@
 }
 
 body {
-  background: #839B97;
+  background: #d3d2d3;
   height: 100vh;
 }
 
@@ -25,7 +25,9 @@ body {
   background: linear-gradient(to right, #FFF, #d8d4d4);
 
   border-radius: 50%;
-  border: 10px solid #34626C;
+  border: 10px solid #2a3128;
+
+  box-shadow: 0 0 15px #000;
 }
 
 .clock .top {
